@@ -855,7 +855,9 @@
   "Dimension upper bound": "寸法（幅、高さ）の上限値",
   "Directories": "ディレクトリ",
   "Directory for detected maps auto saving": "検出されたマップを自動保存するディレクトリ",
+  "Directory for manually saving images via the \"Save\" button": "保存ボタン押した時の手動保存先フォルダ",
   "Directory for saving images using the Save button": "保存ボタンで画像を保存するディレクトリ",
+  "Directory for saving img2img init images if enabled": "img2imgの元画像の保存先（有効な場合）",
   "Directory for temporary images; leave empty for default": "一時的なイメージのためのディレクトリ、デフォルトでは空",
   "Directory name pattern": "ディレクトリ名のパターン",
   "Directory path": "ディレクトリ パス",
@@ -2296,6 +2298,7 @@
   "Output directory for images from extras tab": "その他タブからの画像の出力ディレクトリ",
   "Output directory for images; if empty, defaults to three directories below": "画像の出力ディレクトリ(空欄の場合は以下の3つのディレクトリが規定の保存先になります)",
   "Output directory for img2img grids": "img2imgグリッド画像の出力ディレクトリ",
+  "Output Directory for img2img Grids": "img2imgグリッド画像の出力ディレクトリ",
   "Output directory for img2img images": "img2img画像の出力ディレクトリ",
   "Output Directory for img2img Images": "img2img画像の出力ディレクトリ",
   "Output directory for txt2img grids": "txt2imgグリッド画像の出力ディレクトリ",
@@ -3808,6 +3811,11 @@
   "Zoom": "ズーム",
   "zoom_enhance": "zoom_enhance",
   "zoom_enhance: Upscales a selected portion of the image. ENHANCE!": "zoom_enhance: 画像の選択した部分をアップスケールします。ENHANCE!",
-  "zu": "zu"
+  "zu": "zu",
+  "\"SD VAE\" option overrides per-model preference": "「SD VAE」オプションはモデルごとの設定を優先する",
+  "VAE for Encoding": "エンコード用VAE (img2img/高画質化/インペイント等の画像変換用)",
+  "TAESD": "軽量",
+  "VAE for Decoding": "デコード用VAE (画像への復元用)",
+  "Saving Images/Grids": "画像とGrid画像の保存先"
 }
   
